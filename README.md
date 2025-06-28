@@ -1,5 +1,16 @@
-## 🚀 Project Demo Video
+My capstone project
 
-Here is a short demo of the Liftoff project in action:
+To run this project you will have to add your OpenAi api key in chat.dart file.
 
-[▶️ Watch Video](assets/liftoff.mp4)
+Do not forget to run Pub get
+
+Also you will need to reconfigure the app on your Firebase project for the otp login to work
+
+I also recommend using your own api key for google maps in the AndroidManifest.xml file.
+
+
+
+Here is a short execution video of the project.
+
+
+assets/liftoff.mp4
