@@ -13,5 +13,5 @@ I also recommend using your own api key for google maps in the AndroidManifest.x
 Here is a short execution video of the project.
 
 
-[▶️ Watch Demo](assets/liftoff.mp4)
+[▶️ Watch Demo](Liftoff-main/assets/liftoff.mp4)
 
