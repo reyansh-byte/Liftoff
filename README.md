@@ -1,4 +1,4 @@
-My capstone project
+Final Year diploma capstone project
 
 Here is a short execution video of the project.
 
