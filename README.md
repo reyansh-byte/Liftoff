@@ -1,1 +1,5 @@
-[![Watch the video](assets/login_logo.png)](assets/liftoff.mp4)
+## 🚀 Project Demo Video
+
+Here is a short demo of the Liftoff project in action:
+
+[▶️ Watch Video](assets/liftoff.mp4)
